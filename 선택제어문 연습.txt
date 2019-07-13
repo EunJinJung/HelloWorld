@@ -1,0 +1,9 @@
+#include<stdio.h>
+int void()
+{int a
+ scanf("%d",&a);
+  if (a>10){
+  printf("10보다 큰 정수 입니다.")
+  }
+  return 0 
+}
